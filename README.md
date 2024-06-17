@@ -4,7 +4,9 @@ Diabetes is a prevalent chronic disease in the United States, impacting millions
 
 Columns and Descriptions
 Diabetes_012: Indicator for the presence of diabetes (No Diabetes, Pre-Diabetic, Diabetic).
+
 HighBP: Binary indicator for blood pressure (Normal BP, High BP).
+
 HighChol: Binary indicator for cholesterol levels (Normal Cholesterol, High Cholesterol).
 CholCheck: Binary indicator for cholesterol check (Not Checked, Checked).
 BMI: Body Mass Index (numeric).
