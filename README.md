@@ -54,37 +54,49 @@ Exploratory Data Analysis (EDA)
 The analysis includes the following steps:
 
 Data Import and Overview
+
 Importing the dataset and checking its basic information.
 
 Data Description
+
 Describing the numeric values of the dataset.
 
 Missing Values
+
 Analyzing and visualizing missing values in the dataset.
 
 Data Distribution
+
 Plotting the distribution of each column's data.
 
 Correlation Analysis
+
 Creating a heatmap to check the correlation between columns.
 
 Correlation Thresholds
+
 Setting correlation thresholds and plotting highly positive and negative correlations.
 
 Target Correlation
+
 Analyzing the correlation of the target variable ("Diabetes_012") with other columns.
 
 Population Distribution
+
 Visualizing the population distribution of the dataset.
 
 Diabetes Frequency Analysis
+
 Analyzing the frequency of diabetes based on various health indicators.
 
 BMI Group Analysis
+
 Creating BMI groups and analyzing the diabetes frequency for each group.
 
 Statistical Tests
+
 Conducting statistical tests (t-test, Pearson correlation, Shapiro-Wilk) to derive insights.
 
 Conclusion
+
 This readme provides an in-depth analysis of the diabetes dataset, offering valuable insights into the relationships between various health indicators and the presence of diabetes. The visualizations and statistical tests enhance our understanding of the dataset and can inform further research or decision-making processes related to diabetes and associated factors.# Diabetes
