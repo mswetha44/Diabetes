@@ -1,9 +1,11 @@
 Diabetes Dataset Analysis
+
 Overview
 
 Diabetes is a prevalent chronic disease in the United States, impacting millions of Americans each year and posing a significant economic burden. This dataset, sourced from the "diabetes_012_health_indicators_BRFSS2015.csv" file, contains various health indicators related to diabetes and associated factors.
 
 Columns and Descriptions
+
 Diabetes_012: Indicator for the presence of diabetes (No Diabetes, Pre-Diabetic, Diabetic).
 
 HighBP: Binary indicator for blood pressure (Normal BP, High BP).
